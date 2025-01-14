@@ -1,12 +1,14 @@
-# BookChat - Git-Backed Messaging Application
+# MarbellaChat - Git-Backed Messaging Application
 
-A lightweight, Git-backed web-based messaging application that allows users to communicate through a simple interface while maintaining message history in a Git repository.
+A modern, secure messaging application that uses Git for message storage and RSA signatures for message verification.
 
 ## Features
 
-- Simple and intuitive web interface
-- Flexible storage backend (Git or SQLite)
-- Git integration for message history
+- Modern Mediterranean-inspired UI design
+- Secure message verification
+- Git-backed storage
+- Dark/light theme support
+- Responsive layout
 - Real-time message updates
 - Basic user authentication
 - Markdown support for messages
